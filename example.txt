@@ -1,1 +1,3 @@
 ¿Qué es Jenkins? Explicado en menos de 10 min para quienes no lo conocen de nada
+
+Jenkins es un servidor de integración continua, gratuito, open-source y actualmente uno de los más empleados para esta función. Además es muy fácil de utilizar. Lo puedes descargar desde aquí.
