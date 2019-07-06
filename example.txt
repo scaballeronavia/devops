@@ -1,1 +1,3 @@
 DevOps es uno de los términos más mencionados en el actual entorno de IT. Normalmente se asocia a estrategias de transformación digital, y a metodologías como Continuous Delivery o desarrollo ágil.	
+
+Gran parte de la confusión viene de mezclar lo que es DevOps con los requisitos necesarios o los beneficios obtenidos al implementar DevOps. Sin querer ser excesivamente dogmáticos acerca de un término cuyas líneas de contorno aún no han acabado de asentarse del todo, vamos a intentar al menos arrojar algo de luz sobre el concepto.
